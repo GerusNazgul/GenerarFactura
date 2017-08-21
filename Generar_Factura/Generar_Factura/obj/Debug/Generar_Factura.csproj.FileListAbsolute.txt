@@ -1,0 +1,9 @@
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\bin\Debug\Generar_Factura.exe.config
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\bin\Debug\Generar_Factura.exe
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\bin\Debug\Generar_Factura.pdb
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\obj\Debug\Generar_Factura.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\obj\Debug\Generar_Factura.Form1.resources
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\obj\Debug\Generar_Factura.Properties.Resources.resources
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\obj\Debug\Generar_Factura.csproj.GenerateResource.Cache
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\obj\Debug\Generar_Factura.exe
+C:\Users\Gerardo.Herrera\Desktop\Aplicacion Buitre\Generar_Factura\Generar_Factura\obj\Debug\Generar_Factura.pdb
